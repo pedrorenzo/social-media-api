@@ -21,7 +21,7 @@ Expose SOAP web services in REST Style. Example:
 
 Expose resources with proper URI. Example:
 
-[http://server/users](http://server/users)
+[http://server/users](http://server/users) or
 [http://server/users/1](http://server/users/1)
 
 Note: Improper use of HTTP methods
