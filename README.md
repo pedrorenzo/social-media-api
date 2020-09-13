@@ -1,5 +1,5 @@
 # Social Media API
-A simple social media API. I created this API to learn a little more about HATEOAS, Richardson Maturity Model, Restful Web Services and Microservices with Java, Spring Boot and Spring Cloud.
+A simple social media API. I created this API to learn a little more about HATEOAS, Richardson Maturity Model and Restful Web Services.
 
 For the construction of this API, I used Java 8, Spring Boot, Spring MVC, Spring Boot Actuator, Swagger and Maven.
 I also implemented exception handling and HATEOAS (Hypermedia as the Engine of Application State) at a more basic level, where our API for obtaining user by id returns the link for obtaining all users.
